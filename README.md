@@ -1,6 +1,10 @@
 # Instagram Profile Information
 
-🟧 Simple graphical interface that allows viewing user data.
+![image](https://github.com/MartinImoberdorf/Instagram-Profile-Information/assets/93394695/45494cc0-816c-41d5-b60b-72ce1382f857)
+
+![image](https://github.com/MartinImoberdorf/Instagram-Profile-Information/assets/93394695/d85f9130-2347-406f-9c45-59a71af943ba)
+
+Instagram-Profile-Information is a Python application that utilizes the Instagram API to retrieve and display data from your Instagram profile. It allows you to access information such as your username, follower count, following count, posts, biography, profile picture, and other available details through the API.
 
 MIT License
 
